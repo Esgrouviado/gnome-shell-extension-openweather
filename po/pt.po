@@ -734,7 +734,7 @@ msgstr "Ícones Simbólicos"
 
 #: data/weather-settings.ui:912
 msgid "Text on buttons"
-msgstr "Texto nos butões"
+msgstr "Texto dos botões"
 
 #: data/weather-settings.ui:923
 #: data/org.gnome.shell.extensions.openweather.gschema.xml:101
